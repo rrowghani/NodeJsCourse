@@ -1,0 +1,7 @@
+// parser needs to be added
+// app.use() is used for middlewares
+// .get .post etc. methods or .use for general to add access routes
+// use Router for routes middleware
+// res.send() -> you cant send anything after that. 
+// getting root path of project (path.dirname(require.main.filename); or __dirname)
+// granting access to folder with express.static()
